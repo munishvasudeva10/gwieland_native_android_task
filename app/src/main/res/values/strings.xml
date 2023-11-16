@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GweilandNativeAndroidTask</string>
+    <string name="exchange">Exchange</string>
+    <string name="launchpads">Launchpads</string>
+    <string name="launchpads_page">Launch Pads Page</string>
+    <string name="eshop">€-$hop</string>
+    <string name="eshop_page">€-$hop Page</string>
+    <string name="wallet">Wallet</string>
+    <string name="wallet_page">Wallet Page</string>
+    <string name="exchanges">Exchanges</string>
+    <string name="some_error_occured">Some error occurred!</string>
+    <string name="search_cryptocurrency">Search Cryptocurrency</string>
+    <string name="filter">Filter</string>
+    <string name="cryptocurrency">Cryptocurrency</string>
+    <string name="btc">BTC</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="view_all">View All</string>
+    <string name="top_cryptocurrencies">Top Cryptocurrencies</string>
+    <string name="apply">Apply</string>
+    <string name="sort_by_last_24_hours_change">Sort By Last 24 Hours change</string>
+    <string name="sort_by_price">Sort By Price</string>
+</resources>
